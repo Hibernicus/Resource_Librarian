@@ -1,0 +1,8 @@
+IU/E2.1; Interact with ICT for a purpose.
+IU/E2.1a; Use computer hardware;
+IU/E2.1b; Use software applications for a purpose;
+IU/E2.1c; Recognise and use interface features.
+IU/E2.2; Follow recommended safe practices.
+IU/E2.2a; Minimise physical stress;
+IU/E2.2b; Keep access information secure by using password;
+IU/E2.2c; Understand the need to stay safe.

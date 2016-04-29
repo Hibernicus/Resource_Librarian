@@ -1,0 +1,3 @@
+IF/E2.3; Follow recommended safe practices.
+IF/E2.3a; Use simple search facilities.
+IF/E2.4; Find specified information from ICT-based sources.

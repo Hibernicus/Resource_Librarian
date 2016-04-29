@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Resource_Descriptor
+comment1.params=
+comment1.target=Resource_Descriptor()
+comment2.params=
+comment2.target=void\ buildIt()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=desc
+comment4.target=void\ setDescription(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDescription()
+comment6.params=b
+comment6.target=void\ setIsNCDResource(boolean)
+comment7.params=
+comment7.target=boolean\ getIsNCDResource()
+numComments=8

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Topic_Builder
+comment1.params=aPage\ t\ dBaseHome
+comment1.target=Topic_Builder(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=void\ run()
+comment2.params=
+comment2.target=void\ buildIt()
+comment3.params=fName
+comment3.target=void\ readTopics(java.lang.String)
+comment4.params=sTag\ eElement
+comment4.target=java.lang.String\ getTagValue(java.lang.String,\ org.w3c.dom.Element)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=
+comment6.target=void\ buildTopics()
+comment7.params=uTopics
+comment7.target=void\ getUserTopics(java.lang.String)
+comment8.params=userTopic\ fName
+comment8.target=void\ writeTopics(java.lang.String,\ java.lang.String)
+comment9.params=
+comment9.target=void\ killIt()
+numComments=11

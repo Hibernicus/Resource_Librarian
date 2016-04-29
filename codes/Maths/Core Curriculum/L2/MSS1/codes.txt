@@ -1,0 +1,10 @@
+MSS1/L2.1 Calculate with sums of money and convert between currencies
+MSS1/L2.2 Calculate, measure and record time in different formats
+MSS1/L2.3 Estimate, measure and compare length, distance, weight and capacity using metric and, where appropriate, imperial units
+MSS1/L2.4 Estimate, measure and compare temperature, including reading scales and conversion tables
+MSS1/L2.5 Calculate with units of measure within the same system
+MSS1/L2.6 Calculate with units of measure between systems, using conversion tables and scales, and approximate conversion factors
+MSS1/L2.7 Understand and use given formulae for finding perimeters and areas of regular shapes (e.g. rectangular and circular surfaces)
+MSS1/L2.8 Understand and use given formulae for finding areas of composite shapes (e.g. nonrectangular rooms or plots of land)
+MSS1/L2.9 Understand and use given formulae for finding volumes of regular shapes (e.g. a cuboid or cylinder)
+MSS1/L2.10 Work out dimensions from scale drawings (e.g. 1:20)

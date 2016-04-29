@@ -1,0 +1,9 @@
+MSS1/E3.1 Add and subtract sums of money using decimal notation
+MSS1/E3.2 Round sums of money to the nearest £ and 10p and make approximate calculations
+MSS1/E3.3 Read, measure and record time
+MSS1/E3.4 Read and interpret distance in everyday situations
+MSS1/E3.5 Read, estimate, measure and compare length using nonstandard and standard units
+MSS1/E3.6 Read, estimate, measure and compare weight using nonstandard and standard units
+MSS1/E3.7 Read, estimate, measure and compare capacity using nonstandard and standard units
+MSS1/E3.8 Choose and use appropriate units and measuring instruments
+MSS1/E3.9 Read, measure and compare temperature using common units and instruments

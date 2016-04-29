@@ -1,0 +1,12 @@
+IDPC/E3.6; Enter and develop different types of information to meet given needs.
+IDPC/E3.6a; Enter, edit and format information, including text, graphics, numbers or other digital content, to achieve the required outcome;
+IDPC/E3.6b; Insert and position graphics or other digital content
+IDPC/E3.6c; Process numbers to meet needs.
+IDPC/E3.7; Bring together different types of information for a given purpose.
+IDPC/E3.7a; For print and for viewing on screen;
+IDPC/E3.7b; Check for accuracy and meaning;
+IDPC/E3.7c; Check suitability of information.
+IDPC/E3.8; Use ICT-based communication.
+IDPC/E3.8a; Read, send and receive
+IDPC/E3.8b; Use contacts;
+IDPC/E3.8c; Understand the need to stay safe and to respect others when using ICT-based communication.

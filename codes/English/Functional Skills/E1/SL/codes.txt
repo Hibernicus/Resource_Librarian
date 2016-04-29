@@ -1,0 +1,6 @@
+SL/E1.1; Participate in and understand the main points of simple discussions/exchanges about familiar topics with another person in a familiar situation.
+SL/E1.1a; Understand the main points of short explanations;
+SL/E1.1b; Understand and follow instructions;
+SL/E1.1c; Respond appropriately to comments and requests;
+SL/E1.1d; Make contributions to be understood;
+SL/E1.1e; Ask simple questions to obtain specific information.

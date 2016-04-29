@@ -1,0 +1,3 @@
+MI/E1.4; Provide solutions to simple given practical problems in familiar contexts and situations.
+MI/E1.4b; Describe the properties of size and measure, including length, width, height and weight, and make simple comparisons;
+MI/E1.4c; Describe position;

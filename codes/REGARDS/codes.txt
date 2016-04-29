@@ -1,0 +1,7 @@
+Race
+Economic Status
+Gender
+Age
+Religious Belief
+Disability
+Sexual Orientation

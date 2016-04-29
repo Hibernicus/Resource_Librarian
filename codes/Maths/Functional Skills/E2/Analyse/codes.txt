@@ -1,0 +1,6 @@
+MA/E2.3; Use basic mathematics to obtain answers to simple given practical problems that are clear and routine.
+MA/E2.3a; Understand and use whole numbers with up to two significant figures;
+MA/E2.3b; Understand and use addition/subtraction in practical situations;
+MA/E2.3c; Use doubling and halving in practical situations;
+MA/E2.3d; Recognise and use familiar measures, including time and money;
+MA/E2.3f; Use simple scales and measure to the nearest labelled division;

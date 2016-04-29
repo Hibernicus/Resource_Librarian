@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="resources.xsl"?>
+
+<Resources>
+
+<Resource>
+        <resource_name>Chocolate Prices.docx</resource_name>
+        <name>J:\FSLS\12-13\old course files\SFL CG 3792 11-12 - Current File\Resources\Chocolate Prices.docx</name>
+        <subjects>
+            <sub>all</sub>
+            <sub>Maths</sub>
+            <sub>english</sub>
+            <sub>ICT</sub>
+        </subjects>
+        <maths_levels>
+            <mLevel>all</mLevel>
+            <mLevel>l1</mLevel>
+        </maths_levels>
+        <english_levels>
+            <eLevel>all</eLevel>
+            <eLevel>E3</eLevel>
+        </english_levels>
+        <ict_levels>
+            <iLevel>all</iLevel>
+            <iLevel>l1</iLevel>
+        </ict_levels>
+        <core_codes>
+            <cc>HD1/L1.4 Find the range for a set of data</cc>
+        </core_codes>
+        <fs_codes>
+            <fs>W/E3.3b; Sequence writing logically and clearly;</fs>
+            <fs>IU/L1.2b; Select and use interface features effectively to meet needs;</fs>
+            <fs>IU/L1.3; Manage information storage.</fs>
+        </fs_codes>
+        <maths_topics>
+            <m_topic>all</m_topic>
+        </maths_topics>
+        <english_topics>
+            <e_topic>all</e_topic>
+        </english_topics>
+        <ict_topics>
+            <i_topic>all</i_topic>
+        </ict_topics>
+        <maths_tags>
+            <m_tag>all</m_tag>
+        </maths_tags>
+        <english_tags>
+            <e_tag>all</e_tag>
+            <e_tag>powerpoint</e_tag>
+            <e_tag>starter</e_tag>
+        </english_tags>
+        <ict_tags>
+            <i_tag>all</i_tag>
+        </ict_tags>
+        <user_tags>
+            <u_tag>all</u_tag>
+            <u_tag>personal finance</u_tag>
+            <u_tag>silly test run of r library</u_tag>
+        </user_tags>
+        <seal>
+            <seal_tag>3 Motivation </seal_tag>
+            <seal_tag>5 Social skills</seal_tag>
+            <seal_tag>Getting on and falling out (2 : 4,5)</seal_tag>
+        </seal>
+        <smsc>
+            <smsc_tag>Moral</smsc_tag>
+        </smsc>
+        <regards>
+            <regards_tag>Age</regards_tag>
+        </regards>
+        <ecm/>
+        <description>hoopla</description>
+        <added_by>107312</added_by>
+        <date_added>2014-06-25 16:48:52</date_added>
+        <ncd>true</ncd>
+        <rating/>
+        <last_Access/>
+        <last_accessed_by/>
+        <access_frequency/>
+    </Resource>
+<Resource>
+        <resource_name>100 Metres Dash Game Instructions.docx</resource_name>
+        <name>J:\FSLS\12-13\old course files\SFL CG 3792 11-12 - Current File\Resources\100 Metres Dash Game Instructions.docx</name>
+        <subjects>
+            <sub>all</sub>
+            <sub>Maths</sub>
+        </subjects>
+        <maths_levels>
+            <mLevel>all</mLevel>
+        </maths_levels>
+        <english_levels>
+            <eLevel>all</eLevel>
+        </english_levels>
+        <ict_levels>
+            <iLevel>all</iLevel>
+        </ict_levels>
+        <core_codes/>
+        <fs_codes/>
+        <maths_topics>
+            <m_topic>all</m_topic>
+        </maths_topics>
+        <english_topics>
+            <e_topic>all</e_topic>
+        </english_topics>
+        <ict_topics>
+            <i_topic>all</i_topic>
+        </ict_topics>
+        <maths_tags>
+            <m_tag>all</m_tag>
+        </maths_tags>
+        <english_tags>
+            <e_tag>all</e_tag>
+        </english_tags>
+        <ict_tags>
+            <i_tag>all</i_tag>
+        </ict_tags>
+        <user_tags>
+            <u_tag>all</u_tag>
+        </user_tags>
+        <seal/>
+        <smsc/>
+        <regards/>
+        <ecm/>
+        <description>no description</description>
+        <added_by>107312</added_by>
+        <date_added>2014-06-25 16:52:52</date_added>
+        <ncd>false</ncd>
+        <rating/>
+        <last_Access/>
+        <last_accessed_by/>
+        <access_frequency/>
+    </Resource>
+<Resource>
+        <resource_name>Craig new phone E2 version.docx</resource_name>
+        <name>J:\FSLS\12-13\old course files\SFL CG 3792 11-12 - Current File\Resources\Craig new phone E2 version.docx</name>
+        <subjects>
+            <sub>all</sub>
+            <sub>Maths</sub>
+        </subjects>
+        <maths_levels>
+            <mLevel>all</mLevel>
+            <mLevel>E2</mLevel>
+        </maths_levels>
+        <english_levels>
+            <eLevel>all</eLevel>
+        </english_levels>
+        <ict_levels>
+            <iLevel>all</iLevel>
+        </ict_levels>
+        <core_codes>
+            <cc>HD1/E2.2 Make numerical comparisons from block graphs</cc>
+            <cc>HD1/E2.4 Collect simple numerical information</cc>
+        </core_codes>
+        <fs_codes>
+            <fs>MI/E2.6; Describe solutions to simple given practical problems in familiar contexts and situations.</fs>
+        </fs_codes>
+        <maths_topics>
+            <m_topic>all</m_topic>
+            <m_topic>data handling</m_topic>
+            <m_topic>addition</m_topic>
+        </maths_topics>
+        <english_topics>
+            <e_topic>all</e_topic>
+        </english_topics>
+        <ict_topics>
+            <i_topic>all</i_topic>
+        </ict_topics>
+        <maths_tags>
+            <m_tag>all</m_tag>
+            <m_tag>continuous assessment</m_tag>
+        </maths_tags>
+        <english_tags>
+            <e_tag>all</e_tag>
+        </english_tags>
+        <ict_tags>
+            <i_tag>all</i_tag>
+        </ict_tags>
+        <user_tags>
+            <u_tag>all</u_tag>
+            <u_tag>personal finance</u_tag>
+        </user_tags>
+        <seal>
+            <seal_tag>5 Social skills</seal_tag>
+        </seal>
+        <smsc/>
+        <regards/>
+        <ecm/>
+        <description>functional skills phone tariff activity</description>
+        <added_by>107312</added_by>
+        <date_added>2014-06-25 18:01:24</date_added>
+        <ncd>true</ncd>
+        <rating/>
+        <last_Access/>
+        <last_accessed_by/>
+        <access_frequency/>
+    </Resource>
+<Resource>
+        <resource_name>E3-L2 Chris Moyles in numbers.pdf</resource_name>
+        <name>J:\FSLS\12-13\old course files\SFL CG 3792 11-12 - Current File\Resources\ICT\Infomania\E3-L2 Chris Moyles in numbers.pdf</name>
+        <subjects>
+            <sub>all</sub>
+            <sub>Maths</sub>
+            <sub>english</sub>
+            <sub>ICT</sub>
+        </subjects>
+        <maths_levels>
+            <mLevel>all</mLevel>
+            <mLevel>l1</mLevel>
+        </maths_levels>
+        <english_levels>
+            <eLevel>all</eLevel>
+            <eLevel>l1</eLevel>
+        </english_levels>
+        <ict_levels>
+            <iLevel>all</iLevel>
+            <iLevel>l1</iLevel>
+        </ict_levels>
+        <core_codes>
+            <cc>N1/L1.7 Work out simple ratio and direct proportion</cc>
+            <cc>Wt/L1.3 Present information in a logical sequence using paragraphs where appropriate</cc>
+        </core_codes>
+        <fs_codes>
+            <fs>MA/L1.4g; Solve problems requiring calculation with common measures, including money, time, length, weight, capacity and temperature;</fs>
+            <fs>MA/L1.4j; Construct geometric diagrams, models and shapes;</fs>
+            <fs>W/L1.3d; Use correct grammar, including correct and consistent use of tense;</fs>
+            <fs>SL/L1.1a; Make relevant and extended contributions to discussions, allowing for and responding to others' input;</fs>
+            <fs>SL/L1.1c; Make different kinds of contributions to discussions;</fs>
+            <fs>IF/L1.5a; Use of search engines to (answer) queries.</fs>
+        </fs_codes>
+        <maths_topics>
+            <m_topic>all</m_topic>
+            <m_topic>range</m_topic>
+            <m_topic>number patterns
+</m_topic>
+        </maths_topics>
+        <english_topics>
+            <e_topic>all</e_topic>
+            <e_topic>paragraphs</e_topic>
+        </english_topics>
+        <ict_topics>
+            <i_topic>all</i_topic>
+            <i_topic>cell control</i_topic>
+        </ict_topics>
+        <maths_tags>
+            <m_tag>all</m_tag>
+            <m_tag>excel</m_tag>
+            <m_tag>mind gym</m_tag>
+        </maths_tags>
+        <english_tags>
+            <e_tag>all</e_tag>
+        </english_tags>
+        <ict_tags>
+            <i_tag>all</i_tag>
+            <i_tag>ppt</i_tag>
+        </ict_tags>
+        <user_tags>
+            <u_tag>all</u_tag>
+            <u_tag>employability</u_tag>
+        </user_tags>
+        <seal>
+            <seal_tag>Getting on and falling out (2 : 4,5)</seal_tag>
+        </seal>
+        <smsc>
+            <smsc_tag>Social</smsc_tag>
+        </smsc>
+        <regards>
+            <regards_tag>Race</regards_tag>
+        </regards>
+        <ecm>
+            <ecm_tag>2. Staying safe</ecm_tag>
+        </ecm>
+        <description>infographic from guardian</description>
+        <added_by>107312</added_by>
+        <date_added>2014-10-01 16:52:01</date_added>
+        <ncd>false</ncd>
+        <rating/>
+        <last_Access/>
+        <last_accessed_by/>
+        <access_frequency/>
+    </Resource>
+<Resource>
+        <resource_name>bar chart presentation.pptx</resource_name>
+        <name>J:\FSLS\12-13\old course files\SFL CG 3792 11-12 - Current File\Resources\bar chart presentation.pptx</name>
+        <subjects>
+            <sub>all</sub>
+            <sub>Maths</sub>
+        </subjects>
+        <maths_levels>
+            <mLevel>all</mLevel>
+            <mLevel>l1</mLevel>
+        </maths_levels>
+        <english_levels>
+            <eLevel>all</eLevel>
+        </english_levels>
+        <ict_levels>
+            <iLevel>all</iLevel>
+        </ict_levels>
+        <core_codes/>
+        <fs_codes>
+            <fs>MA/L1.4d; Add and subtract decimals up to two decimal places;</fs>
+            <fs>MA/L1.4g; Solve problems requiring calculation with common measures, including money, time, length, weight, capacity and temperature;</fs>
+        </fs_codes>
+        <maths_topics>
+            <m_topic>all</m_topic>
+            <m_topic>data handling</m_topic>
+        </maths_topics>
+        <english_topics>
+            <e_topic>all</e_topic>
+        </english_topics>
+        <ict_topics>
+            <i_topic>all</i_topic>
+        </ict_topics>
+        <maths_tags>
+            <m_tag>all</m_tag>
+            <m_tag>continuous assessment</m_tag>
+        </maths_tags>
+        <english_tags>
+            <e_tag>all</e_tag>
+        </english_tags>
+        <ict_tags>
+            <i_tag>all</i_tag>
+        </ict_tags>
+        <user_tags>
+            <u_tag>all</u_tag>
+            <u_tag>personal finance</u_tag>
+        </user_tags>
+        <seal/>
+        <smsc/>
+        <regards/>
+        <ecm/>
+        <description>a useful powerpoint</description>
+        <added_by>107312</added_by>
+        <date_added>2014-11-24 12:51:44</date_added>
+        <ncd>false</ncd>
+        <rating/>
+        <last_Access/>
+        <last_accessed_by/>
+        <access_frequency/>
+    </Resource>
+<Resource>
+        <resource_name>The_Plenary_Producer.ppt</resource_name>
+        <name>J:\FSLS\12-13\old course files\SFL CG 3792 11-12 - Current File\Resources\English\The_Plenary_Producer.ppt</name>
+        <subjects>
+            <sub>all</sub>
+            <sub>english</sub>
+        </subjects>
+        <maths_levels>
+            <mLevel>all</mLevel>
+        </maths_levels>
+        <english_levels>
+            <eLevel>all</eLevel>
+            <eLevel>E2</eLevel>
+            <eLevel>E3</eLevel>
+            <eLevel>l1</eLevel>
+            <eLevel>l2</eLevel>
+        </english_levels>
+        <ict_levels>
+            <iLevel>all</iLevel>
+        </ict_levels>
+        <core_codes>
+            <cc>Rs/E2.3 Apply own life experience and knowledge to check out plausible meanings of a sentence as a whole when decoding unfamiliar words</cc>
+            <cc>Rw/E2.3 Use phonic and graphic knowledge to decode words</cc>
+            <cc>Rt/E3.4 Identify the main points and ideas, and predict words from context</cc>
+            <cc>Rw/E3.2 Read and understand words and phrases commonly used on forms</cc>
+            <cc>Ww/E2.1 Spell correctly the majority of personal details and familiar common words</cc>
+            <cc>Ws/E3.3 Use punctuation correctly</cc>
+            <cc>Wt/L1.2 Judge how much to write and the level of detail to include</cc>
+            <cc>Ws/E1.1 Construct a simple sentence</cc>
+            <cc>Wt/L2.5 Use formal and informal language appropriate to purpose and audience</cc>
+            <cc>SLc/E2.3 Express clearly statements of fact, and short accounts and descriptions</cc>
+            <cc>SLlr/L1.5 Make contributions relevant to the situation and the subject</cc>
+            <cc>SLlr/L1.6 Respond to questions on a range of topics</cc>
+            <cc>SLc/L1.1 Speak clearly in a way which suits the situation</cc>
+            <cc>SLc/L1.2 Make requests and ask questions to obtain information in familiar and unfamiliar contexts</cc>
+        </core_codes>
+        <fs_codes>
+            <fs>R/L1.2a; Identify the main points and ideas and how they are presented in a variety of texts;</fs>
+            <fs>R/L1.2c; Utilise information contained in texts;</fs>
+            <fs>R/L1.2d; Identify suitable responses to texts;</fs>
+            <fs>W/E3.3; Write texts with some adaptation to the intended audience.</fs>
+            <fs>W/L1.3b; Present information in a logical sequence;</fs>
+            <fs>W/L2.3; Write a range of texts, including extended written documents, communicating information, ideas and opinions effectively and persuasively.</fs>
+            <fs>W/L2.3a; Present information/ideas concisely, logically and persuasively;</fs>
+            <fs>W/L2.3c; Use a range of writing styles for different purposes;</fs>
+            <fs>W/L2.3d; Use a range of sentence structures, including complex sentences, and paragraphs to organise written communication effectively.</fs>
+            <fs>SL/E2.1f; Follow the gist of discussions.</fs>
+            <fs>SL/E3.1c; Give own point of view and respond appropriately to others' point of view;</fs>
+            <fs>SL/E3.1f; Follow the gist of discussions.</fs>
+            <fs>SL/L1.1a; Make relevant and extended contributions to discussions, allowing for and responding to others' input;</fs>
+        </fs_codes>
+        <maths_topics>
+            <m_topic>all</m_topic>
+        </maths_topics>
+        <english_topics>
+            <e_topic>all</e_topic>
+            <e_topic>starter</e_topic>
+        </english_topics>
+        <ict_topics>
+            <i_topic>all</i_topic>
+        </ict_topics>
+        <maths_tags>
+            <m_tag>all</m_tag>
+        </maths_tags>
+        <english_tags>
+            <e_tag>all</e_tag>
+            <e_tag>picture</e_tag>
+            <e_tag>powerpoint</e_tag>
+            <e_tag>starter</e_tag>
+        </english_tags>
+        <ict_tags>
+            <i_tag>all</i_tag>
+        </ict_tags>
+        <user_tags>
+            <u_tag>all</u_tag>
+            <u_tag>employability</u_tag>
+        </user_tags>
+        <seal>
+            <seal_tag>3 Motivation </seal_tag>
+            <seal_tag>5 Social skills</seal_tag>
+            <seal_tag>Good to be me (1, 2 : 4)</seal_tag>
+        </seal>
+        <smsc>
+            <smsc_tag>Moral</smsc_tag>
+            <smsc_tag>Social</smsc_tag>
+            <smsc_tag>Cultural</smsc_tag>
+        </smsc>
+        <regards>
+            <regards_tag>Economic Status</regards_tag>
+            <regards_tag>Disability</regards_tag>
+        </regards>
+        <ecm>
+            <ecm_tag>2. Staying safe</ecm_tag>
+            <ecm_tag>4. Making a positive contribution</ecm_tag>
+        </ecm>
+        <description>30 slides of startes and plenaries</description>
+        <added_by>107312</added_by>
+        <date_added>2015-06-24 11:45:58</date_added>
+        <ncd>false</ncd>
+        <rating/>
+        <last_Access/>
+        <last_accessed_by/>
+        <access_frequency/>
+    </Resource>
+<Resource>
+        <resource_name>daysold.xls</resource_name>
+        <name>J:\FSLS\12-13\old course files\SFL CG 3792 11-12 - Current File\Resources\ICT\Short, simple spreadsheet activities\daysold.xls</name>
+        <subjects>
+            <sub>all</sub>
+            <sub>ICT</sub>
+        </subjects>
+        <maths_levels>
+            <mLevel>all</mLevel>
+        </maths_levels>
+        <english_levels>
+            <eLevel>all</eLevel>
+        </english_levels>
+        <ict_levels>
+            <iLevel>all</iLevel>
+            <iLevel>l1</iLevel>
+            <iLevel>l2</iLevel>
+        </ict_levels>
+        <core_codes/>
+        <fs_codes>
+            <fs>IF/L1.6; Select information from a variety of ICT sources for a straightforward task.</fs>
+            <fs>IF/L2.5; Select information from a variety of sources to meet requirements of a complex task.</fs>
+            <fs>IU/L1.4; Follow and demonstrate understanding of the need for safety and security practices.</fs>
+            <fs>IU/L2.2a; Select and use software applications to meet needs and solve complex problems;</fs>
+            <fs>IDPC/L1.9; Use communications software to meet requirements of a straightforward task.</fs>
+            <fs>IDPC/L1.11a; At each stage of a task and at the task’s completion.</fs>
+        </fs_codes>
+        <maths_topics>
+            <m_topic>all</m_topic>
+        </maths_topics>
+        <english_topics>
+            <e_topic>all</e_topic>
+        </english_topics>
+        <ict_topics>
+            <i_topic>all</i_topic>
+            <i_topic>if statements</i_topic>
+        </ict_topics>
+        <maths_tags>
+            <m_tag>all</m_tag>
+        </maths_tags>
+        <english_tags>
+            <e_tag>all</e_tag>
+        </english_tags>
+        <ict_tags>
+            <i_tag>all</i_tag>
+            <i_tag>continuous assessment</i_tag>
+            <i_tag>starter</i_tag>
+            <i_tag>xls</i_tag>
+        </ict_tags>
+        <user_tags>
+            <u_tag>all</u_tag>
+        </user_tags>
+        <seal/>
+        <smsc>
+            <smsc_tag>Social</smsc_tag>
+        </smsc>
+        <regards/>
+        <ecm>
+            <ecm_tag>3. Enjoying and achieving</ecm_tag>
+        </ecm>
+        <description>Enter DOB - discover what day that was</description>
+        <added_by>107312</added_by>
+        <date_added>2015-06-24 11:58:16</date_added>
+        <ncd>false</ncd>
+        <rating/>
+        <last_Access/>
+        <last_accessed_by/>
+        <access_frequency/>
+    </Resource>
+<Resource>
+        <resource_name>Chocolate Prices.docx</resource_name>
+        <name>J:\FSLS\12-13\old course files\SFL CG 3792 11-12 - Current File\Resources\Chocolate Prices.docx</name>
+        <subjects>
+            <sub>all</sub>
+            <sub>Maths</sub>
+        </subjects>
+        <maths_levels>
+            <mLevel>all</mLevel>
+            <mLevel>l1</mLevel>
+            <mLevel>l2</mLevel>
+        </maths_levels>
+        <english_levels>
+            <eLevel>all</eLevel>
+        </english_levels>
+        <ict_levels>
+            <iLevel>all</iLevel>
+        </ict_levels>
+        <core_codes>
+            <cc>HD2/L1.1 Show that some events are more likely to occur than others</cc>
+            <cc>HD2/L1.2 Express the likelihood of an event using fractions, decimals and percentages with the probability scale of 0 to 1</cc>
+        </core_codes>
+        <fs_codes>
+            <fs>MI/L2.6; Interpret and communicate solutions to multi-stage practical problems in familiar and unfamiliar contexts and situations.</fs>
+            <fs>MI/L2.6f; Recognise and use 2D representations of 3D objects;</fs>
+        </fs_codes>
+        <maths_topics>
+            <m_topic>all</m_topic>
+            <m_topic>data</m_topic>
+        </maths_topics>
+        <english_topics>
+            <e_topic>all</e_topic>
+        </english_topics>
+        <ict_topics>
+            <i_topic>all</i_topic>
+        </ict_topics>
+        <maths_tags>
+            <m_tag>all</m_tag>
+            <m_tag>workheet</m_tag>
+        </maths_tags>
+        <english_tags>
+            <e_tag>all</e_tag>
+        </english_tags>
+        <ict_tags>
+            <i_tag>all</i_tag>
+        </ict_tags>
+        <user_tags>
+            <u_tag>all</u_tag>
+        </user_tags>
+        <seal/>
+        <smsc/>
+        <regards/>
+        <ecm/>
+        <description>data sheet</description>
+        <added_by>107312</added_by>
+        <date_added>2015-06-30 16:02:50</date_added>
+        <ncd>false</ncd>
+        <rating/>
+        <last_Access/>
+        <last_accessed_by/>
+        <access_frequency/>
+    </Resource>
+</Resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EnglishButtons>
+	<EnglishButton>
+		<defaultImage>images/curriculum_images/English/R1.png</defaultImage>
+		<selectedImage>images/curriculum_images/English/R2.png</selectedImage>
+		<ID>2</ID>
+		<X>218</X>
+		<Y>550</Y>
+		<name>R</name>
+	</EnglishButton>
+	<EnglishButton>
+		<defaultImage>images/curriculum_images/English/W1.png</defaultImage>
+		<selectedImage>images/curriculum_images/English/W2.png</selectedImage>
+		<ID>3</ID>
+		<X>293</X>
+		<Y>550</Y>
+		<name>W</name>
+	</EnglishButton>
+	<EnglishButton>
+		<defaultImage>images/curriculum_images/English/SL1.png</defaultImage>
+		<selectedImage>images/curriculum_images/English/SL2.png</selectedImage>
+		<ID>4</ID>
+		<X>380</X>
+		<Y>550</Y>
+		<name>SL</name>
+	</EnglishButton>
+	
+</EnglishButtons>

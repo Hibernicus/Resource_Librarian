@@ -1,0 +1,9 @@
+Money
+Currency conversion
+Time
+Length, weight and Capacity
+Temperature
+Estimate measurements
+Convert units of measure
+Read simple scales
+Scale drawings

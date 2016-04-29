@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MathsButtons>
+	<MathsButton>
+		<defaultImage>images/curriculum_images/Maths/N1a.png</defaultImage>
+		<selectedImage>images/curriculum_images/Maths/N1b.png</selectedImage>
+		<ID>5</ID>
+		<X>122</X>
+		<Y>550</Y>
+		<name>N1</name>
+	</MathsButton>
+	<MathsButton>
+		<defaultImage>images/curriculum_images/Maths/N2a.png</defaultImage>
+		<selectedImage>images/curriculum_images/Maths/N2b.png</selectedImage>
+		<ID>6</ID>
+		<X>122</X>
+		<Y>660</Y>
+		<name>N2</name>
+	</MathsButton>
+	<MathsButton>
+		<defaultImage>images/curriculum_images/Maths/MSS1a.png</defaultImage>
+		<selectedImage>images/curriculum_images/Maths/MSS1b.png</selectedImage>
+		<ID>7</ID>
+		<X>242</X>
+		<Y>550</Y>
+		<name>MSS1</name>
+	</MathsButton>
+	<MathsButton>
+		<defaultImage>images/curriculum_images/Maths/MSS2a.png</defaultImage>
+		<selectedImage>images/curriculum_images/Maths/MSS2b.png</selectedImage>
+		<ID>8</ID>
+		<X>242</X>
+		<Y>660</Y>
+		<name>MSS2</name>
+	</MathsButton>
+	<MathsButton>
+		<defaultImage>images/curriculum_images/Maths/HD1a.png</defaultImage>
+		<selectedImage>images/curriculum_images/Maths/HD1b.png</selectedImage>
+		<ID>9</ID>
+		<X>415</X>
+		<Y>550</Y>
+		<name>HD1</name>
+	</MathsButton>
+	<MathsButton>
+		<defaultImage>images/curriculum_images/Maths/HD2a.png</defaultImage>
+		<selectedImage>images/curriculum_images/Maths/HD2b.png</selectedImage>
+		<ID>10</ID>
+		<X>415</X>
+		<Y>660</Y>
+		<name>HD2</name>
+	</MathsButton>
+	
+</MathsButtons>

@@ -1,0 +1,2 @@
+HD2/L1.1 Show that some events are more likely to occur than others
+HD2/L1.2 Express the likelihood of an event using fractions, decimals and percentages with the probability scale of 0 to 1

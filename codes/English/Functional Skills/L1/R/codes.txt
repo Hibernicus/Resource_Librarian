@@ -1,0 +1,6 @@
+R/L1.2; Read and understand a range of straightforward texts.
+R/L1.2a; Identify the main points and ideas and how they are presented in a variety of texts;
+R/L1.2b; Read and understand texts in detail;
+R/L1.2c; Utilise information contained in texts;
+R/L1.2d; Identify suitable responses to texts;
+R/L1.2e; In more than one type of text

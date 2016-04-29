@@ -1,0 +1,4 @@
+IF/E3.4; Use simple searches to find information.
+IF/E3.4a; Search stored information;
+IF/E3.4b; Search web-based sources of information.
+IF/E3.5; Select relevant information that matches requirements of given task.

@@ -1,0 +1,7 @@
+N1/E1.1 Count reliably up to 10 items
+N1/E1.2 Read and write numbers up to 10, including zero
+N1/E1.3 Order and compare numbers up to 10, including zero
+N1/E1.4 Add single-digit numbers with totals to 10
+N1/E1.5 Subtract single-digit numbers from numbers up to 10
+N1/E1.6 Interpret +, - and = in practical situations for solving problems
+N1/E1.7 Use a calculator to check calculations using whole numbers

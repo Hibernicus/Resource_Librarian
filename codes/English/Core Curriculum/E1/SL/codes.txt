@@ -1,0 +1,9 @@
+SLlr/E1.1 Listen for the gist of short explanations
+SLlr/E1.2 Listen for detail using key words to extract some specific information
+SLlr/E1.3 Follow single-step instructions in a familiar context, asking for instructions to be repeated if necessary
+SLlr/E1.4 Listen and respond to requests for personal information
+SLc/E1.1 Speak clearly to be heard and understood in simple exchanges
+SLc/E1.2 Make requests using appropriate terms
+SLc/E1.3 Ask questions to obtain specific information
+SLc/E1.4 Make statements of fact clearly
+SLd/E1.1 Speak and listen in simple exchanges and everyday contexts

@@ -1,0 +1,15 @@
+IDPC/L2.6; Enter, develop and refine information using appropriate software to meet requirements of a complex task.
+IDPC/L2.6a; Apply a range of editing, formatting and layout techniques to meet needs, including text, tables, graphics, records, numerical data, charts, graphs or other digital content.
+IDPC/L2.7; Use appropriate software to meet the requirements of a complex data-handling task.
+IDPC/L2.7a; Process and analyse numerical data;
+IDPC/L2.7b; Display numerical data in appropriate graphical format;
+IDPC/L2.7c; Use appropriate field names and data types to organise information;
+IDPC/L2.7d; Analyse and draw conclusions from a data set by searching, sorting and editing records.
+IDPC/L2.8; Use communications software to meet requirements of a complex task.
+IDPC/L2.8a; Organise electronic messages, attachments and contacts;
+IDPC/L2.8b; Use collaborative tools appropriately;
+IDPC/L2.9; Combine and present information in ways that are fit for purpose and audience.
+IDPC/L2.9a; Organise and integrate information of different types to achieve a purpose, using accepted layouts and conventions as appropriate;
+IDPC/L2.9b; Work accurately and check accuracy, using software facilities where appropriate.
+IDPC/L2.10; Evaluate the selection, use and effectiveness of ICT tools and facilities used to present information.
+IDPC/L2.10a; At each stage of a task and at the task’s completion

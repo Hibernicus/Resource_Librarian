@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EnglishButtons>
+	<EnglishButton>
+		<defaultImage>images/functional_images/English/R1.png</defaultImage>
+		<selectedImage>images/functional_images/English/R2.png</selectedImage>
+		<ID>11</ID>
+		<X>218</X>
+		<Y>250</Y>
+		<name>R</name>
+	</EnglishButton>
+	<EnglishButton>
+		<defaultImage>images/functional_images/English/W1.png</defaultImage>
+		<selectedImage>images/functional_images/English/W2.png</selectedImage>
+		<ID>12</ID>
+		<X>293</X>
+		<Y>250</Y>
+		<name>W</name>
+	</EnglishButton>
+	<EnglishButton>
+		<defaultImage>images/functional_images/English/SL1.png</defaultImage>
+		<selectedImage>images/functional_images/English/SL2.png</selectedImage>
+		<ID>13</ID>
+		<X>380</X>
+		<Y>250</Y>
+		<name>SL</name>
+	</EnglishButton>
+	
+</EnglishButtons>

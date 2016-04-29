@@ -1,0 +1,9 @@
+N1/L1.1 Read, write, order and compare numbers, including large numbers
+N1/L1.2 Recognise negative numbers in practical contexts (e.g. temperatures)
+N1/L1.3 Add, subtract, multiply and divide using efficient written methods
+N1/L1.4 Multiply and divide whole numbers by 10 and 100
+N1/L1.5 Recall multiplication facts up to 10 x 10 and make connections with division facts
+N1/L1.6 Recognise numerical relationships (e.g. multiples and squares)
+N1/L1.7 Work out simple ratio and direct proportion
+N1/L1.8 Approximate by rounding
+N1/L1.9 Estimate answers to calculations

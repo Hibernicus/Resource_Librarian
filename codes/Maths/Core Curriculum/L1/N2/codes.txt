@@ -1,0 +1,11 @@
+N2/L1.1 Read, write, order and compare common fractions and mixed numbers
+N2/L1.2 Find parts of whole number quantities or measurements (e.g. 2/3 or 3/4)
+N2/L1.3 Recognise equivalencies between common fractions, percentages and decimals (e.g. 50% = 1/2 , 0.25 = 1/4) and use these to find part of whole-number quantities
+N2/L1.4 Read, write, order and compare decimals up to three decimal places
+N2/L1.5 Add, subtract, multiply and divide decimals up to two places
+N2/L1.6 Multiply and divide decimals by 10, 100
+N2/L1.7 Approximate decimals by rounding to a whole number or two decimal places
+N2/L1.8 Read, write, order and compare simple percentages, and understand simple percentage increase and decrease 
+N2/L1.9 Find simple percentage parts of quantities and measurements
+N2/L1.10 Find simple percentage increase and decrease
+N2/L1.11 Use a calculator to calculate efficiently using whole numbers, fractions, decimals and percentages

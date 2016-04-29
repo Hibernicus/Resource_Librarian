@@ -1,0 +1,5 @@
+IU/E1.1; Interact with ICT for a given purpose.
+IU/E1.1a; Recognise and use interface features.
+IU/E1.2; Follow recommended safe practices.
+IU/E1.2a; Minimise the physical stress of seating, lighting and hazards;
+IU/E1.2b; Keep access information secure by using password.

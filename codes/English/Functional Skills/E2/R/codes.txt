@@ -1,0 +1,5 @@
+R/E2.2; Read and understand straightforward texts that explain, inform or recount information.
+R/E2.2a; Understand the main events in chronological texts;
+R/E2.2b; Read and understand simple instructions and directions;
+R/E2.2c; Read and understand high frequency words and words with common spelling patterns;
+R/E2.2d; Use knowledge of alphabetical order to locate information.

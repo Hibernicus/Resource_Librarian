@@ -1,0 +1,7 @@
+IDPC/E2.5; Enter and edit information for a simple given purpose.
+IDPC/E2.5a; Use simple editing and formatting techniques.
+IDPC/E2.6; Bring together two given types of information.
+IDPC/E2.6a; Print and view on screen;
+IDPC/E2.6b; Identify and correct simple errors.
+IDPC/E2.7; Use ICT-based communication.
+IDPC/E2.7a; Read, send and receive electronic messages.

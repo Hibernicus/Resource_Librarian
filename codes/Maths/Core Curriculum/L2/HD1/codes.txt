@@ -1,0 +1,4 @@
+HD1/L2.1 Extract discrete and continuous data from tables, diagrams, charts and line graphs
+HD1/L2.2 Collect, organise and represent discrete and continuous data in tables, charts, diagrams and line graphs
+HD1/L2.3 Find the mean, median and mode, and use them as appropriate to compare two sets of data
+HD1/L2.4 Find the range and use it to describe the spread within sets of data

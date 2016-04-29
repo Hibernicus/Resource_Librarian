@@ -1,0 +1,4 @@
+N1/L2.1 Read, write, order and compare positive and negative numbers of any size in a practical context
+N1/L2.2 Carry out calculations with numbers of any size using efficient methods
+N1/L2.3 Calculate ratio and direct proportion
+N1/L2.4 Evaluate expressions and make substitutions in given formulae in words and symbols to produce results

@@ -1,0 +1,5 @@
+IDPC/E1.4; Enter and edit single items of information.
+IDPC/E1.4a; Identify and correct simple errors;
+IDPC/E1.4b; Label an image.
+IDPC/E1.5; Use ICT-based communication.
+IDPC/E1.5a; Receive and open electronic messages.

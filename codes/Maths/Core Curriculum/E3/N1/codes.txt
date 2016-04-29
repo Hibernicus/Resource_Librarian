@@ -1,0 +1,9 @@
+N1/E3.1 Count, read, write, order and compare numbers up to 1000
+N1/E3.2 Add and subtract using three digit whole numbers
+N1/E3.3 Recall addition and subtraction facts to 20
+N1/E3.4 Multiply two-digit whole numbers by single-digit whole numbers
+N1/E3.5 Recall multiplication facts (e.g. multiples of 2, 3, 4, 5, 10)
+N1/E3.6 Divide two-digit whole numbers by single-digit whole numbers and interpret remainders
+N1/E3.7 Approximate by rounding numbers less than 1000 to the nearest 10 or 100
+N1/E3.8 Estimate answers to calculations
+N1/E3.9 Use and interpret +, -, x, / and = in practical situations for solving problems

@@ -1,0 +1,4 @@
+HD1/E3.1 Extract numerical information from lists, tables, diagrams and simple charts
+HD1/E3.2 Make numerical comparisons from bar charts and pictograms
+HD1/E3.3 Make observations and record numerical information using a tally
+HD1/E3.4 Organise and represent information in different ways so that it makes sense to others

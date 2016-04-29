@@ -1,0 +1,12 @@
+MA/L2.4; Apply a range of mathematics to find solutions.
+MA/L2.4a; Understand and use positive and negative numbers of any size in practical contexts;
+MA/L2.4b; Carry out calculations with numbers of any size in practical contexts, to a given number of decimal places;
+MA/L2.4c; Understand, use and calculate ratio and proportion, including problems involving scale;
+MA/L2.4d; Understand and use equivalences between fractions, decimals and percentages;
+MA/L2.4e; Understand and use simple formulae and equations involving one- or two-step operations;
+MA/L2.4g; Find area, perimeter and volume of common shapes;
+MA/L2.4h; Use, convert and calculate using metric and, where appropriate, imperial measures;
+MA/L2.4j; Use and interpret statistical measures, tables and diagrams, for discrete and continuous data, using ICT where appropriate;
+MA/L2.4k; Use statistical methods to investigate situations;
+MA/L2.4l; Use probability to assess the likelihood of an outcome.
+MA/L2.5; Use appropriate checking procedures and evaluate their effectiveness at each stage.

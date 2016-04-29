@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TagButtonListener
+comment0.text=\r\n\ This\ interface\ defines\ the\ listener\ method\ -\ buttonClicked\ -\ for\ reacting\ to\ button\r\n\ presses.\ It\ is\ part\ of\ the\ "MSG"\ Greenfoot\ GUI\ toolkit.\r\n\ \r\n\ This\ listener\ interface\ must\ be\ used\ whenever\ the\ MSG\ Button\ class\ is\ used.\ The\ world\ class\ must\r\n\ implement\ this\ interface,\ and\ provide\ an\ implementation\ for\ the\ buttonClicked\ method.\r\n\ \r\n\ @author\ Michael\ Kolling\r\n\ @version\ 1.0\r\n
+comment1.params=tagButton
+comment1.target=void\ buttonClicked(TagButton)
+comment1.text=\r\n\ A\ button\ in\ the\ world\ was\ clicked.\r\n\ \r\n\ @param\ button\ \ The\ button\ object\ that\ was\ clicked.\r\n
+numComments=2

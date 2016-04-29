@@ -1,0 +1,12 @@
+SLlr/E2.1 Listen for and follow the gist of explanations, instructions and narratives
+SLlr/E2.2 Listen for detail in short explanations, instructions and narratives
+SLlr/E2.3 Listen for and identify the main points of short explanations or presentations
+SLlr/E2.4 Listen to and follow short, straightforward explanations and instructions
+SLlr/E2.5 Listen to and identify simply expressed feelings and opinions
+SLlr/E2.6 Respond to straightforward questions
+SLc/E2.1 Speak clearly to be heard and understood in straightforward exchanges
+SLc/E2.2 Make requests and ask questions to obtain information in everyday contexts
+SLc/E2.3 Express clearly statements of fact, and short accounts and descriptions
+SLc/E2.4 Ask questions to clarify understanding
+SLc/E2.1 Follow the gist of discussions
+SLc/E2.2 Follow the main points and make appropriate contributions to the discussion

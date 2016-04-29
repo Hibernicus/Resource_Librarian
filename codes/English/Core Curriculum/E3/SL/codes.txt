@@ -1,0 +1,13 @@
+SLlr/E3.1 Listen for and follow the gist of explanations, instructions and narratives in different contexts
+SLlr/E3.2 Listen for detail in explanations, instructions and narratives in different contexts
+SLlr/E3.3 Listen for and identify relevant information and new information from discussions, explanations and presentations
+SLlr/E3.4 Use strategies to clarify and confirm understanding (e.g. facial expressions or gestures)
+SLlr/E3.5 Listen to and respond appropriately to other points of view
+SLlr/E3.6 Respond to a range of questions about familiar topics
+SLc/E3.1 Speak clearly to be heard and understood using appropriate clarity, speed and phrasing
+SLc/E3.2 Use formal language and register when appropriate
+SLc/E3.3 Express clearly statements of fact and give short explanations, accounts and descriptions
+SLc/E3.4 Make requests and ask questions to obtain information in familiar and unfamiliar contexts
+SLd/E3.1 Follow and understand the main points of discussions on different topics
+SLd/E3.2 Make contributions to discussions that are relevant to the subject
+SLd/E3.3 Respect the turn-taking rights of others during discussions

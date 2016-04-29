@@ -1,0 +1,5 @@
+MR/L1.1; Understand practical problems in familiar and unfamiliar contexts and situations, some of which are non-routine.
+MR/L1.2; Identify and obtain necessary information to tackle the problem.
+MR/L1.2k; Extract and interpret information from tables, diagrams, charts and graphs;
+MR/L1.2j; Construct geometric diagrams, models and shapes;
+MR/L1.3; Select mathematics in an organised way to find solutions.

@@ -1,0 +1,9 @@
+MSS1/E2.1 Make amounts of money up to £1 in different ways using 1p, 2p, 5p, 10p, 20p and 50p coins
+MSS1/E2.2 Calculate the cost of more than one item and the change from a transaction, in pence or in whole pounds
+MSS1/E2.3 Read and record time in common date formats
+MSS1/E2.4 Read and understand time displayed on analogue and 12-hour digital clocks in hours, half hours and quarter hours
+MSS1/E2.5 Read, estimate, measure and compare length using common standard and non-standard units (e.g. metre, centimetre, paces)
+MSS1/E2.6 Read, estimate, measure and compare weight using common standard units (e.g. kilogram)
+MSS1/E2.7 Read, estimate, measure and compare capacity using common standard and non-standard units (e.g. litre, cupful)
+MSS1/E2.8 Read and compare positive temperatures in everyday situations such as weather charts
+MSS1/E2.9 Read simple scales to the nearest labelled division

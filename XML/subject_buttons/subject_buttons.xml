@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubjectButtons>
+	<SubjectButton>
+		<defaultImage>images/Subject_images/maths1.png</defaultImage>
+		<selectedImage>images/Subject_images/maths2.png</selectedImage>
+		<ID>0</ID>
+		<X>85</X>
+		<Y>40</Y>
+		<name>Maths</name>
+	</SubjectButton>
+	<SubjectButton>
+		<defaultImage>images/Subject_images/english1.png</defaultImage>
+		<selectedImage>images/Subject_images/english2.png</selectedImage>
+		<ID>1</ID>
+		<X>60</X>
+		<Y>170</Y>
+		<name>english</name>
+	</SubjectButton>
+	<SubjectButton>
+		<defaultImage>images/Subject_images/ict1.png</defaultImage>
+		<selectedImage>images/Subject_images/ict2.png</selectedImage>
+		<ID>2</ID>
+		<X>125</X>
+		<Y>290</Y>
+		<name>ICT</name>
+	</SubjectButton>
+</SubjectButtons>

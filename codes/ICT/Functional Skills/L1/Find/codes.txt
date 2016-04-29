@@ -1,0 +1,4 @@
+IF/L1.5; Use search techniques to locate and select relevant information.
+IF/L1.5a; Use of search engines to (answer) queries.
+IF/L1.6; Select information from a variety of ICT sources for a straightforward task.
+IF/L1.6a; Recognise and take account of currency, relevance, bias and copyright when selecting and using information.

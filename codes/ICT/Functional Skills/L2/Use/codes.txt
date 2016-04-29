@@ -1,0 +1,10 @@
+IU/L2.1; Plan solutions to complex tasks by analysing the necessary stages.
+IU/L2.1a; Use ICT to plan and analyse complex or multi-step tasks and activities and to make decisions about suitable approaches.
+IU/L2.2; Select, interact with and use ICT systems safely and securely for a complex task in non-routine and unfamiliar contexts.
+IU/L2.2a; Select and use software applications to meet needs and solve complex problems;
+IU/L2.2b; Select and use a range of interface features and system facilities effectively to meet needs;
+IU/L2.2c; Select and adjust system settings as appropriate to individual needs;
+IU/L2.2d; Respond to ICT problems and take appropriate action;
+IU/L2.2e; Understand the danger of computer viruses and how to minimise risk.
+IU/L2.3; Manage information storage to enable efficient retrieval.
+IU/L2.3a; Manage files, folders and other media storage to enable efficient information retrieval.

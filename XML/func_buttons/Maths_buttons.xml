@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MathsButtons>
+	<MathsButton>
+		<defaultImage>images/functional_images/Maths/interpret1.png</defaultImage>
+		<selectedImage>images/functional_images/Maths/interpret2.png</selectedImage>
+		<ID>17</ID>
+		<X>120</X>
+		<Y>250</Y>
+		<name>interpret</name>
+	</MathsButton>
+	<MathsButton>
+		<defaultImage>images/functional_images/Maths/Analyse1.png</defaultImage>
+		<selectedImage>images/functional_images/Maths/Analyse2.png</selectedImage>
+		<ID>18</ID>
+		<X>277</X>
+		<Y>250</Y>
+		<name>analyse</name>
+	</MathsButton>
+	<MathsButton>
+		<defaultImage>images/functional_images/Maths/represent1.png</defaultImage>
+		<selectedImage>images/functional_images/Maths/represent2.png</selectedImage>
+		<ID>19</ID>
+		<X>410</X>
+		<Y>250</Y>
+		<name>represent</name>
+	</MathsButton>
+	
+</MathsButtons>

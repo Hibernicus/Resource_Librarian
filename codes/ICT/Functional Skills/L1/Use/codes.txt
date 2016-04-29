@@ -1,0 +1,11 @@
+IU/L1.1; Identify the ICT requirements of a straightforward task.
+IU/L1.1a; Use ICT to plan and organise work.
+IU/L1.2; Interact with and use ICT systems to meet requirements of a straightforward task in a familiar context.
+IU/L1.2a; Select and use software applications to meet needs and solve straightforward problems;
+IU/L1.2b; Select and use interface features effectively to meet needs;
+IU/L1.2c; Adjust system settings as appropriate to individual needs.
+IU/L1.3; Manage information storage.
+IU/L1.3a; Work with files, folders and other media to access, organise, store, label and retrieve information.
+IU/L1.4; Follow and demonstrate understanding of the need for safety and security practices.
+IU/L1.4a; Demonstrate how to create, use and maintain secure passwords;
+IU/L1.4b; Demonstrate how to minimise the risk of computer viruses.

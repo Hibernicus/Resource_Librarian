@@ -1,0 +1,3 @@
+R/E2.2; Read and understand short, simple texts that explain or recount information.
+R/E2.2a; Read and understand simple, regular words and sentences;
+R/E2.2b; Understand short texts on familiar topics and experiences.

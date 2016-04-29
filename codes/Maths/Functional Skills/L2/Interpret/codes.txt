@@ -1,0 +1,3 @@
+MI/L2.6; Interpret and communicate solutions to multi-stage practical problems in familiar and unfamiliar contexts and situations.
+MI/L2.6f; Recognise and use 2D representations of 3D objects;
+MI/L2.7; Draw conclusions and provide mathematical justifications.

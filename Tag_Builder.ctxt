@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Tag_Builder
+comment1.params=aPage\ t\ dBaseHome
+comment1.target=Tag_Builder(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=void\ run()
+comment2.params=
+comment2.target=void\ buildIt()
+comment3.params=fName
+comment3.target=void\ readTags(java.lang.String)
+comment4.params=sTag\ eElement
+comment4.target=java.lang.String\ getTagValue(java.lang.String,\ org.w3c.dom.Element)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=
+comment6.target=void\ buildTags()
+comment7.params=uTags
+comment7.target=void\ getUserTags(java.lang.String)
+comment7.text=\ the\ following\ method\ allows\ users\ to\ write\ their\ own\ tags\r\n\ (individual\ or\ multiple)\ if\ the\ new\ tags\ don't\ already\ exist,\ they\ are\r\n\ added\ to\ the\ tag\ library\ and\ available\ the\ next\ time\ the\ tag\ button\ is\ engaged\r\n
+comment8.params=userTag\ fName
+comment8.target=void\ writeTags(java.lang.String,\ java.lang.String)
+comment9.params=
+comment9.target=void\ killIt()
+numComments=11

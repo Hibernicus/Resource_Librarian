@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Resource_Finder
+comment1.params=home
+comment1.target=Resource_Finder(java.lang.String)
+comment10.params=sTag\ eElement
+comment10.target=java.lang.String\ getTagValue(java.lang.String,\ org.w3c.dom.Element)
+comment11.params=
+comment11.target=void\ updateUI()
+comment11.text=\ the\ following\ is\ all\ copied\ and\ pasted\ from\ the\ Internet\r\n\ and\ gives\ the\ JFileChooser\ the\ OS\ look\ and\ feel\r\n
+comment2.params=ev
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=dir
+comment3.target=void\ setDirName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getDirName()
+comment5.params=n
+comment5.target=void\ setName(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=pn
+comment7.target=void\ setPathName(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getPathName()
+comment9.params=file
+comment9.target=void\ setFileBase(java.lang.String)
+numComments=12

@@ -1,0 +1,5 @@
+HD1/E2.1 Extract information from lists, tables, simple diagrams and block graphs
+HD1/E2.2 Make numerical comparisons from block graphs
+HD1/E2.3 Sort and classify objects using two criteria
+HD1/E2.4 Collect simple numerical information
+HD1/E2.5 Represent information so that it makes sense to others (e.g. in lists, tables and diagrams)

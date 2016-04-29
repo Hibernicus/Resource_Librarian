@@ -1,0 +1,7 @@
+MA/E3.4; Apply mathematics to obtain answers to simple given practical problems that are clear and routine.
+MA/E3.4a; Add and subtract using three-digit numbers;
+MA/E3.4b; Solve practical problems involving multiplication and division by 2, 3, 4, 5 and 10;
+MA/E3.4c; Round to the nearest 10 or 100.
+MA/E3.4d; Understand and use simple fractions;
+MA/E3.4h; Complete simple calculations involving money and measures.
+MA/E3.5; Use simple checking procedures.

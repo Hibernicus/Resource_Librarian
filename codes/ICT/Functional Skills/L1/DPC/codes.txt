@@ -1,0 +1,15 @@
+IDPC/L1.7; Enter, develop and refine information using appropriate software to meet the requirements of straightforward tasks.
+IDPC/L1.7a; Apply editing, formatting and layout techniques to meet needs, including text, tables, graphics, records, numbers, charts, graphs or other digital content.
+IDPC/L1.8; Use appropriate software to meet requirements of straightforward data-handling tasks.
+IDPC/L1.8a; Process numerical data;
+IDPC/L1.8b; Display numerical data in a graphical format;
+IDPC/L1.8c; Use field names and data types to organise information;
+IDPC/L1.8d; Enter, search, sort and edit records.
+IDPC/L1.9; Use communications software to meet requirements of a straightforward task.
+IDPC/L1.9a; Read, send and receive electronic messages with attachments;
+IDPC/L1.9b; Demonstrate understanding of the need to stay safe and to respect others when using ICT-based communication.
+IDPC/L1.10; Combine information within a publication for a familiar audience and purpose.
+IDPC/L1.10a; Print and view on screen;
+IDPC/L1.10b; Check for accuracy and meaning.
+IDPC/L1.11; Evaluate own use of ICT tools.
+IDPC/L1.11a; At each stage of a task and at the task’s completion.

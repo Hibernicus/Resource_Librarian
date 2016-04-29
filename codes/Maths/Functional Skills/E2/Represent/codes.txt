@@ -1,0 +1,5 @@
+MR/E2.1; Understand simple practical problems in familiar contexts and situations.
+MR/E2.2; Select basic mathematics to obtain answers.
+MR/E2.2e; Recognise sequences of numbers, including odd and even numbers;
+MR/E2.2g; Know properties of simple 2D and 3D shapes;
+MR/E2.2h; Extract information from simple lists.

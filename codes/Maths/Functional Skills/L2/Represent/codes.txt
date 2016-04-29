@@ -1,0 +1,4 @@
+MR/L2.1; Understand routine and non-routine problems in familiar and unfamiliar contexts and situations.
+MR/L2.2; Identify the situation or problems and identify the mathematical methods needed to solve them.
+MR/L2.3; Choose from a range of mathematics to find solutions.
+MR/L2.3i; Collect and represent discrete and continuous data, using ICT where appropriate;

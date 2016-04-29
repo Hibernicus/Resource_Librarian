@@ -1,0 +1,10 @@
+MSS1/L1.1 Add, subtract, multiply and divide sums of money and record
+MSS1/L1.2 Read, measure and record time in common date formats and in the 12-hour and 24-hour clock
+MSS1/L1.3 Calculate using time
+MSS1/L1.4 Read, estimate, measure and compare length, weight, capacity and temperature using common units and instruments
+MSS1/L1.5 Read, estimate, measure and compare distance
+MSS1/L1.6 Add and subtract common units of measure within the same system
+MSS1/L1.7 Convert units of measure in the same system
+MSS1/L1.8 Work out the perimeter of simple shapes
+MSS1/L1.9 Work out the area of rectangles
+MSS1/L1.10 Work out simple volume (e.g. cuboids)

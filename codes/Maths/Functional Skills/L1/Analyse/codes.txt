@@ -1,0 +1,14 @@
+MA/L1.4; Understand practical problems in familiar and unfamiliar contexts and situations, some of which are non-routine.
+MA/L1.4a; Understand and use whole numbers and understand negative numbers in practical contexts;
+MA/L1.4b; Add, subtract, multiply and divide whole numbers using a range of strategies;
+MA/L1.4c; Understand and use equivalences between common fractions, decimals and percentages;
+MA/L1.4d; Add and subtract decimals up to two decimal places;
+MA/L1.4e; Solve simple problems involving ratio, where one number is a multiple of the other;
+MA/L1.4f; Use simple formulae expressed in words for one- or two-step operations;
+MA/L1.4g; Solve problems requiring calculation with common measures, including money, time, length, weight, capacity and temperature;
+MA/L1.4h; Convert units of measure in the same system;
+MA/L1.4i; Work out areas and perimeters in practical situations;
+MA/L1.4j; Construct geometric diagrams, models and shapes;
+MA/L1.4m; Find mean and range;
+MA/L1.4n; Use data to assess the likelihood of an outcome.
+MA/L1.5; Use appropriate checking procedures at each stage.

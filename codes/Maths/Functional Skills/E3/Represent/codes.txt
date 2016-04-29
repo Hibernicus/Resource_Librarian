@@ -1,0 +1,7 @@
+MR/E3.1; Understand practical problems in familiar contexts and situations.
+MR/E3.1e; Understand, estimate, measure and compare length, capacity, weight and temperature;
+MR/E3.1f; Understand decimals to two decimal places in practical contexts;
+MR/E3.2; Begin to develop own strategies for solving simple problems.
+MR/E3.3; Select mathematics to obtain answers to simple given practical problems that are clear and routine.
+MR/E3.3j; Use metric units in everyday situations;
+MR/E3.3k; Extract, use and compare information from lists, tables, simple charts and simple graphs.

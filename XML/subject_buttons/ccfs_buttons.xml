@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CCFSButtons>
+	<CCFSButton>
+		<defaultImage>images/functional_images/fskills1.png</defaultImage>
+		<selectedImage>images/functional_images/fskills2.png</selectedImage>
+		<ID>1</ID>
+		<X>330</X>
+		<Y>180</Y>
+		<name>Functional</name>
+	</CCFSButton>
+	<CCFSButton>
+		<defaultImage>images/curriculum_images/core_cur1.png</defaultImage>
+		<selectedImage>images/curriculum_images/core_cur2.png</selectedImage>
+		<ID>0</ID>
+		<X>330</X>
+		<Y>480</Y>
+		<name>Core</name>
+	</CCFSButton>
+	
+</CCFSButtons>

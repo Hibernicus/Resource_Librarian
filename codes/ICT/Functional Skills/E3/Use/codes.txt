@@ -1,0 +1,12 @@
+IU/E3.1; Interact with and use an ICT system to meet given needs.
+IU/E3.1a; Use correct procedures to start and shut down an ICT system;
+IU/E3.1b; Use input and output devices;
+IU/E3.1c; Use software applications to meet needs and solve given problems;
+IU/E3.1d; Recognise and use interface features;
+IU/E3.1e; Change simple software settings.
+IU/E3.2; Store information.
+IU/E3.2a; Open and save files;
+IU/E3.2b; Know how to insert and remove media.
+IU/E3.3; Follow safety and security practices.
+IU/E3.3a; Use and change passwords;
+IU/E3.3b; Minimise physical stress.

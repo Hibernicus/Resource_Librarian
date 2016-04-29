@@ -1,0 +1,4 @@
+HD1/L1.1 Extract and interpret information (e.g. in tables, diagrams, charts and line graphs)
+HD1/L1.2 Collect, organise and represent discrete data (e.g. in tables, charts, diagrams and line graphs)
+HD1/L1.3 Find the arithmetical average (mean) for a set of data
+HD1/L1.4 Find the range for a set of data

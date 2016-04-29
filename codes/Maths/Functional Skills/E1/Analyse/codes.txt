@@ -1,0 +1,4 @@
+MA/E1.2; Use mathematics to obtain answers to simple given practical problems that are clear and routine;
+MA/E1.2a; Understand and use numbers with one significant figure in practical contexts;
+MA/E1.2f; Sort and classify objects practically using a single criterion.
+MA/E1.3; Generate results that make sense for a specified task.

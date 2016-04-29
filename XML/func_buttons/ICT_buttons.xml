@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ICTButtons>
+	<ICTButton>
+		<defaultImage>images/functional_images/ICT/Find1.png</defaultImage>
+		<selectedImage>images/functional_images/ICT/Find2.png</selectedImage>
+		<ID>14</ID>
+		<X>145</X>
+		<Y>250</Y>
+		<name>Find</name>
+	</ICTButton>
+	<ICTButton>
+		<defaultImage>images/functional_images/ICT/USE1.png</defaultImage>
+		<selectedImage>images/functional_images/ICT/USE2.png</selectedImage>
+		<ID>15</ID>
+		<X>280</X>
+		<Y>250</Y>
+		<name>Use</name>
+	</ICTButton>
+	<ICTButton>
+		<defaultImage>images/functional_images/ICT/DPC1.png</defaultImage>
+		<selectedImage>images/functional_images/ICT/DPC2.png</selectedImage>
+		<ID>16</ID>
+		<X>392</X>
+		<Y>250</Y>
+		<name>DPC</name>
+	</ICTButton>
+	
+</ICTButtons>

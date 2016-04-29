@@ -1,0 +1,5 @@
+IF/L2.4; Use appropriate search techniques to locate and select relevant information.
+IF/L2.4a; Search engines, queries and AND/ NOT/OR, >,<,>=,<=, contains, begins with, use of wild cards.
+IF/L2.5; Select information from a variety of sources to meet requirements of a complex task.
+IF/L2.5a; Recognise and take account of copyright and other constraints on the use of information;
+IF/L2.5b; Evaluate fitness for purpose of information.
